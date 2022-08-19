@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rychuu1337
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on viollet client
+- 💞️ I’m looking to collaborate on violetio client
 - 📫 To reach me, write to the theblackpanda@wp.pl email
